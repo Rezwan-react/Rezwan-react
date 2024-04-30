@@ -9,5 +9,5 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MD Rezwan Islam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Md Rezwan Islam )  
+(https://www.linkedin.com/in/MD Rezwan Islam/)  (https://www.facebook.com/Md Rezwan Islam )  
 
